@@ -9,5 +9,5 @@ Also there are options, you can change brush color and brush width.\
 * model.h5 - file of saved model\
 * data.zip - dataset which I generated\
 \
-Screenshot of program interface:
+Screenshot of program interface:\
 ![1](https://user-images.githubusercontent.com/9623983/105824541-ed5f8680-5fd7-11eb-8d58-86b05929591e.png)
